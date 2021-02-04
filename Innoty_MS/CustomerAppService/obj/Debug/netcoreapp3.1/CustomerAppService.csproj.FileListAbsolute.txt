@@ -120,7 +120,6 @@ D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\bin\Debug\netcore
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\obj\Debug\netcoreapp3.1\CustomerAppService.csprojAssemblyReference.cache
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\obj\Debug\netcoreapp3.1\CustomerAppService.AssemblyInfoInputs.cache
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\obj\Debug\netcoreapp3.1\CustomerAppService.AssemblyInfo.cs
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\CustomerAppService\obj\Debug\netcoreapp3.1\CustomerAppService.csproj.CoreCompileInputs.cache

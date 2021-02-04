@@ -48,7 +48,6 @@ D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\bin\Debug\netcore
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
-D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.csprojAssemblyReference.cache
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.AssemblyInfoInputs.cache
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.AssemblyInfo.cs
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.csproj.CoreCompileInputs.cache
