@@ -61,3 +61,4 @@ D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcore
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.dll
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.pdb
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.genruntimeconfig.cache
+D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\InnotymApi.Gateway\obj\Debug\netcoreapp3.1\InnotymApi.Gateway.csprojAssemblyReference.cache

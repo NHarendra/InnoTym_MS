@@ -133,3 +133,4 @@ D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\TransactionAppService\obj\Debug\netc
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\TransactionAppService\obj\Debug\netcoreapp3.1\TransactionAppService.dll
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\TransactionAppService\obj\Debug\netcoreapp3.1\TransactionAppService.pdb
 D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\TransactionAppService\obj\Debug\netcoreapp3.1\TransactionAppService.genruntimeconfig.cache
+D:\Innolat_Github_Repo\InnoTym_MS\Innoty_MS\TransactionAppService\obj\Debug\netcoreapp3.1\TransactionAppService.csprojAssemblyReference.cache

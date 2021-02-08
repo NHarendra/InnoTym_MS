@@ -25,6 +25,18 @@
       "UpstreamHttpMethod": [ "DELETE", "GET" ]
     },
     {
+      "DownstreamPathTemplate": "/api/Transaction/GetUserTransaction",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44346
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/Transaction/GetUserTransaction",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
       "DownstreamPathTemplate": "/api/Transaction",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [

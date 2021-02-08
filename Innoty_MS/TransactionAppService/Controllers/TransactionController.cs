@@ -54,5 +54,15 @@ namespace TransactionAppService.Controllers
 
         /************************************ End all Curd logic from here **************************************************/
 
+        [AllowAnonymous]
+        [HttpPost]
+        [Route("GetUserTransaction")]
+        public List<Transaction> GetUserTransaction(int userId)
+        {
+            List<Transaction> listReturn = new List<Transaction>();
+            listReturn = TransactionRepository.GetAll().Where(w => w.UserId == userId).ToList();
+            return listReturn;
+        }
+
     }
 }
